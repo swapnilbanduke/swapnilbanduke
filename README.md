@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **End to End ML projects**
 
-- 🤝 I’m looking for help with **MLOps**
-
 - 👨‍💻 All of my projects are available at [sites.google.com/view/swapnilbanduke/home](sites.google.com/view/swapnilbanduke/home)
 
 - 💬 Ask me about **MLOps**
